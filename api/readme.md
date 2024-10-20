@@ -17,3 +17,8 @@ Start App
 ```bash
 python main.py
 ```
+
+Deploy
+```bash
+scp -r api root@209.38.4.53:/root
+```
