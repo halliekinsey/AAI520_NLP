@@ -26,8 +26,8 @@ AAI-530/
 
 ├── .gitignore 
 
-├── Final Project.ipynb
-# Preprocessing steps by Bilal Nijar. 
+├── EDA.ipynb
+# Preprocessing steps by Bilal Najar. 
 
 ├── Models_V1.ipynb
 # Preprocessing & initial model variations by Halladay Kinsey. 
