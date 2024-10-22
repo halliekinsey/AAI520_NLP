@@ -22,3 +22,15 @@ Deploy
 ```bash
 scp -r api root@209.38.4.53:/root
 ```
+
+Start (on server)
+```
+. venv/bin/activate
+nohup python3 main.py
+```
+
+Stop
+```
+ps aux | grep "main.py"
+kill PID
+```
