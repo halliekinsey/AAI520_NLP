@@ -35,6 +35,9 @@ AAI-530/
 ├── data_prep.ipynb
 # Preprocessing steps by Keller Flint-Blanchard.
 
+├── Deployed_Model.ipynb
+# Deployed model training by Keller Flint-Blanchard.
+
 └── 
 # 
 
